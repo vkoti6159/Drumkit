@@ -53,7 +53,7 @@ drumkit/
 
 ## 📸 Preview
 
-![Drumkit Screenshot](assets/images/my-screenshot.png)
+![Drumkit Screenshot](assets/my-screenshot.png)
 
 ---
 
